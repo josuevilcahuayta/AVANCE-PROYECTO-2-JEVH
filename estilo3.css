@@ -1,0 +1,16 @@
+h2{
+    text-align: center;
+    font-size: 3rem;
+    font-family: serif;
+
+}
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+     background-image: url("https://wp-content.miviaje.com/2018/06/paisajes-venezolanos.jpg"); /* Ruta de tu imagen */
+    background-size: cover; /* La imagen cubre toda la pantalla */
+    background-repeat: no-repeat; /* No se repite */
+    background-position: center; /* Centrada */ 
+
+}
